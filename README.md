@@ -1,8 +1,6 @@
 # Handwritten-Digits-Classification-using-KNN
 
 
-# **Handwritten Digits Classification using KNN**
-
 ## **1. Dataset Information**
 
 ### **Dataset Used: Scikit-learn Digits Dataset**
